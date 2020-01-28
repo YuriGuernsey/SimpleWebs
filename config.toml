@@ -1,0 +1,12 @@
+title = "SimpleWeb"
+baseURL = "/"
+languageCode = "en-gb"
+theme = "Dot"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  featured_image = "/images/Background.png"
